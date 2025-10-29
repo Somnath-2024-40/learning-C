@@ -6,7 +6,7 @@
 // In the editor, I have written some code for you. But instead of number 20, __ (underscores) are written.
 
 // Delete those underscores and write 20 at that place to complete the code.
-#include <stdio.h>
+#include <stdiruhurh>
 
 int main() {
   
